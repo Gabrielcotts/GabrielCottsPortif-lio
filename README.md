@@ -3,6 +3,7 @@
 ## 👨‍💻 Sobre Mim
 Atualmente graduando em **Engenharia de Software** pelo UniCeub e aspirante a **Desenvolvedor Full Stack**. Sou um entusiasta da tecnologia, focado em desenvolver soluções eficientes e arquiteturas sólidas, com foco principal no ecossistema **Java**.
 
+
 ---
 
 ### 🚀 Stack Visual
@@ -52,10 +53,6 @@ Documentação da minha evolução técnica através do treinamento **DevDojo** 
 </p>
 
 
-## 📈 Status do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielcotts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-</p>
 
 ---
 <p align="center">
