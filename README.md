@@ -22,10 +22,10 @@ Documentação da minha evolução técnica através do treinamento **DevDojo** 
   
 ---
 
-## 🛠️ Habilidades & Tecnologias
+## 🛠️ Habilidades e Tecnologias
 
 ### 📊 Matriz de Competências
-
+| Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
 | **Desenvolvimento** | Java (Lógica, POO, Arrays), Git, GitHub, IntelliJ IDEA |
 | **Design & 3D** | Photoshop, Illustrator, Blender, Canva |
