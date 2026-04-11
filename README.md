@@ -5,10 +5,16 @@ Atualmente graduando em **Engenharia de Software** pelo UniCeub e aspirante a **
 
 ---
 
+<h2>🎯 Objetivo</h2>
+
+Busco minha primeira oportunidade na área de tecnologia como estagiário ou trainee, com foco em desenvolvimento de software. Tenho grande interesse em atuar como desenvolvedor Full Stack e estou constantemente evoluindo minhas habilidades para construir soluções completas e eficientes.
+
+---
+
 ## 🎓 Formação & Experiência
-* 🏫 **Bacharelado em Engenharia de Software** - UniCeub (Cursando)
-* 🏗️ **Temper Engenharia** - Apoio em processos e organização
-* 🔥 **Supremo Fogão** - Gestão administrativa e de estoque
+* 🏫 **Bacharelado em Engenharia de Software** - UniCeub (Cursando).
+* 🏗️ **Temper Engenharia** - Gestão de caixa, apoio em processos e organização, organização e controle de documentos, gestão de estoque e processos internos.
+* 🔥 **Supremo Fogão** - Gestão administrativa e de estoque, experiência com atendimento ao cliente,  gestão de estoque e processos internos, lançamento de dados e uso de sistemas administrativos.
   
 ---
 
